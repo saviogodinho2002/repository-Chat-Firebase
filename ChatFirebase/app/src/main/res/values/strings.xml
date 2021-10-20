@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatFirebase</string>
+    <string name="enter">Entrar</string>
+    <string name="semconta">Não tem uma conta? Clique aqui</string>
+    <string name="photo">photo</string>
+    <string name="contacts">contatos</string>
+    <string name="logout">logout</string>
+    <string name="btn_chat">Enviar</string>
+    <string name="message">Digite a mensagem</string>
+    <string name="sexo">sexo</string>
+</resources>

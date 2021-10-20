@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936943992743",
+    "project_id": "chatfirebase-b8d3b",
+    "storage_bucket": "chatfirebase-b8d3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936943992743:android:0da0f7f4adecc634738082",
+        "android_client_info": {
+          "package_name": "com.savio.chatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936943992743-kp46o4ot4p4kn6orcu7v328vup5q2r7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC36AZ-C76pztWOdqre8N6vLnbllNeiF7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936943992743-kp46o4ot4p4kn6orcu7v328vup5q2r7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
